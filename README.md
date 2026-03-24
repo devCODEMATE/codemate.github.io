@@ -37,12 +37,11 @@ Estoy construyendo mi camino en desarrollo web, Python e inteligencia artificial
 
 ## 📂 Proyectos
 
-### Mini Web App
-Mi primera mini app web como parte de mi aprendizaje.
+### Route Optimizer (Basic)
 
-🔗 Próximamente link directo al repo
+Mini aplicación web desarrollada como práctica para trabajar lógica, estructuras y flujo de datos en desarrollo web.
 
----
+🔗 [Ver proyecto](https://github.com/devCODEMATE/route-optimizer-basic)
 
 ## 🌐 Conectemos
 
@@ -51,6 +50,8 @@ Mi primera mini app web como parte de mi aprendizaje.
 - 💻 https://github.com/devCODEMATE  
 
 ---
+
+Creative Technologist | AI & Developer in progress
 
 ## ✨ Filosofía
 
